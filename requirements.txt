@@ -1,0 +1,4 @@
+xpress==8.13
+pandas>=1.2
+geopandas>=0.8
+seaborn>=0.9
